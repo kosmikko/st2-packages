@@ -1,3 +1,4 @@
 [submodule "Handlebars.tmbundle"]
 	path = Handlebars.tmbundle
 	url = https://github.com/MarkBorcherding/Handlebars.tmbundle.git
+	ignore = untracked
