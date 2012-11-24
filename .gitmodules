@@ -2,3 +2,6 @@
 	path = Handlebars.tmbundle
 	url = https://github.com/MarkBorcherding/Handlebars.tmbundle.git
 	ignore = untracked
+[submodule "colour-schemes"]
+	path = colour-schemes
+	url = https://github.com/daylerees/colour-schemes

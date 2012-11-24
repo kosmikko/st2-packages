@@ -8,3 +8,5 @@ Collection of Packages that are not available through Package Manager
 - http://wbond.net/sublime_packages/alignment
 - https://github.com/Kronuz/SublimeCodeIntel
 - [Sublime Linter](https://github.com/Kronuz/SublimeLinter)
+- https://github.com/SublimeText/Tag
+- https://bitbucket.org/sublimator/sublime-2-zencoding
